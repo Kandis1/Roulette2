@@ -1,0 +1,6 @@
+C:\Users\Kandis\source\repos\RouletteLibrary\RouletteLibrary\bin\Release\RouletteLibrary.dll
+C:\Users\Kandis\source\repos\RouletteLibrary\RouletteLibrary\bin\Release\RouletteLibrary.pdb
+C:\Users\Kandis\source\repos\RouletteLibrary\RouletteLibrary\obj\Release\RouletteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kandis\source\repos\RouletteLibrary\RouletteLibrary\obj\Release\RouletteLibrary.dll
+C:\Users\Kandis\source\repos\RouletteLibrary\RouletteLibrary\obj\Release\RouletteLibrary.pdb
+C:\Users\Kandis\source\repos\RouletteLibrary\RouletteLibrary\obj\Release\RouletteLibrary.csprojResolveAssemblyReference.cache
