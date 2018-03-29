@@ -1,0 +1,17 @@
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\bin\Debug\Roulette2.exe.config
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\bin\Debug\Roulette2.exe
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\bin\Debug\Roulette2.pdb
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\Roulette2.csprojResolveAssemblyReference.cache
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\MainWindow.g.cs
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\App.g.cs
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\Roulette2_MarkupCompile.cache
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\Roulette2_MarkupCompile.lref
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\MainWindow.baml
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\Roulette2.g.resources
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\Roulette2.Properties.Resources.resources
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\Roulette2.csproj.GenerateResource.Cache
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\Roulette2.csproj.CoreCompileInputs.cache
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\Roulette2.exe
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\obj\Debug\Roulette2.pdb
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\bin\Debug\RouletteLibrary.dll
+C:\Users\Kandis\source\repos\Roulette2\Roulette2\bin\Debug\RouletteLibrary.pdb
